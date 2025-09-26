@@ -35,7 +35,7 @@ CSS3 – Styling and responsiveness
 
 Clone the repo:
 
-git clone https://github.com/your-username/biryani-shop.git
+git clone https://github.com/SriJai96/restaurant-website.git
 
 
 Open index.html in your browser
